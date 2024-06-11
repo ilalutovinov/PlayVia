@@ -40,7 +40,7 @@ Playvia is a platform that brings together game lovers, programmers and entrepre
 - 📫 How to contact us: &nbsp; ![Linkedin Badge](https://img.shields.io/badge/-PlayVia-blue?style=flat&)
 
 
-<p align="center"><img src="Photo of the project (2).png" width="700" height="500"  /></p>
+<p align="center"><img src="Photo of the project (2).png" width="700" height="600"  /></p>
 
 ## Project Structure
 - **Backend**: Django
