@@ -8,7 +8,7 @@
 
 Welcome to Playvia! This project aims to create a platform where gamers, programmers, and entrepreneurs can come together for gaming, learning, and collaborative development.
 
-   <a href="https://codewithsadee.github.io/gamics/"><strong>➥ Live Demo</strong></a>
+   <a href="https://classic.armadon-theme.com/"><strong>➥ Live Demo</strong></a>
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
