@@ -4,7 +4,7 @@
 
 # Playvia: A Platform for Games and Creative Community
 
-![](Photo of the project.png/logo.png)
+![](PlayVia/Photo of the project.png)
 
 ## :video_game: About Playvia
 
