@@ -9,7 +9,7 @@
 
 Welcome to Playvia! This project aims to create a platform where gamers, programmers, and entrepreneurs can come together for gaming, learning, and collaborative development.
 
-<p align="center"><img src="Photo of the project (2).png" width="600" height="500"  /></p>
+<p align="center"><img src="Photo of the project (2).png" width="700" height="500"  /></p>
 
    <a href="https://classic.armadon-theme.com/"><strong>➥ Live Demo</strong></a>
 ---
