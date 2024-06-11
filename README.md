@@ -4,6 +4,8 @@
 
 # Playvia: A Platform for Games and Creative Community
 
+![](Photo of the project.png/logo.png)
+
 ## :video_game: About Playvia
 
 Welcome to Playvia! This project aims to create a platform where gamers, programmers, and entrepreneurs can come together for gaming, learning, and collaborative development.
